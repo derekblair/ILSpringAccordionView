@@ -1,7 +1,7 @@
 # ILSpringAccordionView
 An iOS container view for displaying sections in a spring accordion frame based on UIKit dynamics.
 
-![Spring Accordion view with 3 UILabel sections]()
+![Spring Accordion view with 3 UILabel sections](http://i.imgur.com/TudFsBZ.gif)
 
 ##Setup
 
